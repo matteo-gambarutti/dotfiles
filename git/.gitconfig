@@ -1,0 +1,5 @@
+[user]
+	name = Matteo Gambarutti
+	email = matteo.gambarutti@gmail.com
+[core]
+	excludesfile = /Users/matteo/.gitignore_global
